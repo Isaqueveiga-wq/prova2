@@ -5,8 +5,11 @@
 .rodape{
     background-image: linear-gradient(rgba(29, 173, 180, 0.192),rgb(238, 238, 238));
 }
+.rodapeletra{
+    color: rgb(0, 0, 0);
+}
 .navs{
-    background-image: linear-gradient(rgb(238, 238, 238),rgb(115, 166, 168));
+    background-image: linear-gradient(rgb(238, 238, 238),rgb(159, 185, 185));
 }
 
 .cads{
