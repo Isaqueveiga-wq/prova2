@@ -3,7 +3,7 @@
     background-repeat: no-repeat;
 }
 .rodape{
-    background-image: linear-gradient(rgba(29, 173, 180, 0.192),rgb(238, 238, 238));
+    background-image: linear-gradient(rgb(0, 173, 181),rgb(238, 238, 238));
 }
 .rodapeletra{
     color: rgb(0, 0, 0);
