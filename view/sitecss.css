@@ -1,4 +1,7 @@
 .fundo{
-    background-image: linear-gradient(rgb(245, 158, 11), white);
+    background-image: linear-gradient(rgb(238, 238, 238), rgb(0, 173, 181));
     background-repeat: no-repeat;
+}
+.rodape{
+    background-image: linear-gradient(rgb(0, 173, 181),rgb(238, 238, 238));
 }
