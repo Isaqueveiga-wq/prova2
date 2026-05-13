@@ -10,5 +10,6 @@
 }
 
 .cads{
-    background-image: linear-gradient(rgb(58, 71, 80),rgb(115, 166, 168));
+    background-image: linear-gradient(rgb(58, 71, 80),rgb(48, 56, 65));
+    color: white;
 }
